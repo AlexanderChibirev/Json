@@ -1,4 +1,5 @@
-[
+{
+  "arrayPhotos":[
   {
     "url": "http://file.mobilmusic.ru/1e/05/80/822939.jpg",
     "name": "Конь обычный"
@@ -7,4 +8,4 @@
     "url": "http://www.sunny-cat.ru/datas/users/1-daniel040.jpg",
     "name": "Белая кошка"
   }
-]
+]}
